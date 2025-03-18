@@ -1,0 +1,19 @@
+
+/* Adicione seus estilos personalizados aqui */
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #007bff;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+footer {
+    background-color: #f8f9fa;
+    color: #6c757d;
+    padding: 10px;
+    text-align: center;
+}
